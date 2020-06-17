@@ -1,0 +1,22 @@
+{
+  "name": "express-gateway-plugin-request-metadata-headers",
+  "version": "1.0.0",
+  "description": "An Express Gateway plugin that inserts middleware to retrieve ip and useragent info from a request and adding as a header to forwarded request.",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenchef/express-gateway-plugin-request-metadata-headers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenchef/express-gateway-plugin-request-metadata-headers/issues"
+  },
+  "homepage": "https://github.com/greenchef/express-gateway-plugin-request-metadata-headers#readme",
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
